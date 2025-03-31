@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+python-Levenshtein
+ollama
+pypdf
+pytest
